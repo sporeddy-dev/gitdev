@@ -1,3 +1,4 @@
+
 <project>
 
   <version>1.0.1</version>
@@ -5,6 +6,8 @@
 
  <package>jar</package>
   <artifactory-id>gitdev</artifactory-id>
+
+<name>hi</name>
 
 
 </project>
