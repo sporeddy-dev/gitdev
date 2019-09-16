@@ -1,5 +1,9 @@
 <project>
+
   <version>1.0.1</version>
+
+
+ <package>jar</package>
 
 
 </project>
