@@ -4,6 +4,7 @@
 
 
  <package>jar</package>
+  <artifactory-id>gitdev</artifactory-id>
 
 
 </project>
