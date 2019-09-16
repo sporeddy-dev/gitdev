@@ -1,5 +1,5 @@
-node(){
-status(){
+node('maven-label'){
+status('prep'){
 }
 status(){
 }
